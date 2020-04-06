@@ -21,7 +21,7 @@ Before you start using Git, you have to make it available on your computer.
 
 **Installing on Linux** Just go to : <https://git-scm.com/download/linux> 
 
-**Installing on macOS** Just go to : <https://git-scm.com/download/linux> 
+**Installing on macOS** Just go to : <https://git-scm.com/download/mac> 
              
 **Installing on Windows** Just go to : <https://git-scm.com/download/win>
 
