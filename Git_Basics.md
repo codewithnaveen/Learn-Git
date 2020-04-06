@@ -1,4 +1,4 @@
-**To satrt with Git** first you need to create a account on GitHub or Bitbucket.org
+**To start with Git** first you need to **create a account** on GitHub or Bitbucket.org
 
 After creating account create a **Repository**
 ---
@@ -16,24 +16,24 @@ After creating account create a **Repository**
 
 **You will go to the local repository folder in your machine make changes in the files & folders then you need to push these changes to the remote server**
 
-`git add .`
+`$ git add .`
 
 + adding our changes to the local respository
 ---
 
-`git commit -m "commit message"`
+`$ git commit -m "commit message"`
 
 + we are writing those changes to the local repository
 + so that they can be tracked
 ---
 
-`git push origin master`
+`$ git push origin master`
 
 + now we want the local changes to be saved in the remote/origin server
 + we will push those changes to remote server in master branch
 ---
 
-`git pull origin master`
+`$ git pull origin master`
 
 + to get the latest changes from the remote repository
 
